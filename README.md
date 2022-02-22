@@ -41,13 +41,16 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 * Register - User signs up or logs into their account
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to select their interest areas and view their post feed. 
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * Upon selecting music choice users matched and message screen opens
+   * After creating account, user is able to select profiles to communicate with through their feed or search.
 * Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
+   * Allows user to upload a photo and fill in information that is interesting to them and others.
+   * Also shows the users selected interest areas and video games.
 * Home Screen.
-   * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
+   * Allows user to view posts that are categorized under their followed tags, interest areas, and related. 
 * Post Creation Screen
-   * Hello
+   * Allows user to create posts with a combination of media (text, video, picture) and add tags to it 
+* Search Screen 
+   * Allows user to search tags for their interest areas or games and search for other users 
 * Settings Screen
    * Lets people change language, and app notification settings.
 
