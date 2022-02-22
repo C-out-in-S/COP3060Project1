@@ -45,8 +45,10 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
    * Upon selecting music choice users matched and message screen opens
 * Profile Screen 
    * Allows user to upload a photo and fill in information that is interesting to them and others
-* Song Selection Screen.
+* Home Screen.
    * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
+* Post Creation Screen
+   * 
 * Settings Screen
    * Lets people change language, and app notification settings.
 
