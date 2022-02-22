@@ -48,7 +48,7 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 * Home Screen.
    * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
 * Post Creation Screen
-   * 
+   * Hello
 * Settings Screen
    * Lets people change language, and app notification settings.
 
