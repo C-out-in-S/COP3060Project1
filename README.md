@@ -39,8 +39,7 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 
 * Login 
 * Register - User signs up or logs into their account
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-   * ...
+   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to select their interest areas and view their post feed. 
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
    * Upon selecting music choice users matched and message screen opens
 * Profile Screen 
