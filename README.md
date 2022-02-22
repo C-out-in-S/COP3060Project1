@@ -19,15 +19,16 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Required Stories**
 
-* User logs in to access previous chats and preference settings
-* User picks what their favorite artist/genre/etc. (Think Spotify interface)
-* Matches have a chat window to get to know each other, with the ability to skip music and unmatch (Tinder Style).
+* Users can register and log in 
+* Users can choose the interest areas for video games/choose games they are interested in
+* Users can post multiple forms of media with tags and comment on others' posts
+* Users have the ability to thumbs up/thumbs down posts and report posts/users
 * Profile pages for each user
 * Settings (Accesibility, Notification, General, etc.)
 
-**Optional Nice-to-have Stories**
+**Optional Stories**
 
 * Log of past songs/people with album art covers matching
 * Page of most played songs (i.e. songs that most users are connecting through)
