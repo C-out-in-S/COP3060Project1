@@ -30,11 +30,9 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 
 **Optional Stories**
 
-* Log of past songs/people with album art covers matching
-* Page of most played songs (i.e. songs that most users are connecting through)
-* Profile Add-On: Top music choices, etc.
-* Optional Shuffle Button (i.e. random encounter/random song)
-* Listening/Encounter Queue
+* User access to profile pages for other users
+* Video games get profile pages with ratings, descriptions, and similar games
+* Allow users to send posts through direct messages and third-party messagers 
 
 ### 2. Screens
 
