@@ -11,7 +11,7 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 
 ### App Evaluation
 - **Category:** Social Networking / Gaming
-- **Story:** 
+- **Story:** Collects the users interest areas and then presents posts made by other users that have that tag or similar content. 
 - **Market:** Any individual that is 13 years or older can use this application. 
 - **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
 - **Scope:** First we would start by asking the user about their interest areas for games along with games they are interested in. The potential growth of this app will most likely be related to the number of users or features presented.
