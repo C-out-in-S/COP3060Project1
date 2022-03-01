@@ -74,7 +74,8 @@ Optional:
 
 ## Wireframes
 <img src="https://i.imgur.com/9CrjH1K.jpg" width=800>
-<img src="https://imgur.com/a/BXzX8rY.jpg" width=800><br>
+<img src="https://imgur.com/a/BXzX8rY" width=800>
+<a href="https://imgur.com/a/BXzX8rY">
 
 ### Digital Wireframes & Mockups
 <img src="https://i.imgur.com/lYHn37F.jpg" height=200>
