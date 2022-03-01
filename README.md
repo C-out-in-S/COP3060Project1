@@ -73,7 +73,7 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<a href="https://imgur.com/a/BXzX8rY" target="_blank">Link to wireframes</a>
+<a href="https://imgur.com/a/BXzX8rY" target="_parent">Link to wireframes</a>
 
 ### Digital Wireframes & Mockups
 <img src="https://i.imgur.com/lYHn37F.jpg" height=200>
