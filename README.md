@@ -76,7 +76,7 @@ Optional:
 <a href="https://imgur.com/a/BXzX8rY">Link to wireframes</a>
 
 ### Digital Wireframes & Mockups
-<img src="https://i.imgur.com/lYHn37F.jpg" height=200>
+<a href="https://imgur.com/a/Zwnvszf">Link to digital wireframes</a>
 
 ### [BONUS] Interactive Prototype
-<img src="https://i.imgur.com/AiKfE5g.gif" width=200>
+<a href="https://imgur.com/a/aYRAUgq">Link to prototype</a>
