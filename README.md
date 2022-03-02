@@ -107,14 +107,13 @@ Optional:
       - (Delete) Delete existing like
       - (Create/POST) Create a new comment on a post
       - (Delete) Delete existing comment
+      - (UPDATE) Refresh home feed 
    - Create Post Screen
       - (Create/POST) Create a new post object
+      - (Delete) Remove media from post object
    - Profile Screen
       - (Read/GET) Query logged in user object
+      - (Update/put) Update follower count 
       - (Update/PUT) Update user profile image
-   - Settings Screen 
-      - 
-   - Search Screen 
-      - 
-   - Register/Login Page 
-      - 
+      - (Update/PUT) Update user bio
+    
