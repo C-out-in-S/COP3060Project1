@@ -53,6 +53,8 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
    * Lets people change language, and app notification settings.
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
    * After creating account, user is able to select profiles to communicate with through their feed or search.
+* Notifications Screen 
+   * Allows user to view their notifications (direct messages, posts in interest areas, etc.)
   
 
 ### 3. Navigation
