@@ -28,12 +28,11 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 * Users have the ability to thumbs up/thumbs down posts and report posts/users
 * Profile pages for each user
 * Settings (Accesibility, Notification, General, etc.)
+* User access to profile pages for other users
+* Allow users to send posts through direct messages and third-party messagers 
 
 **Optional Stories**
-
-* User access to profile pages for other users
 * Video games get profile pages with ratings, descriptions, and similar games
-* Allow users to send posts through direct messages and third-party messagers 
 * Representatives of games can serve as professional respondents to questions 
 
 ### 2. Screens
@@ -52,6 +51,8 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
    * Allows user to search tags for their interest areas or games and search for other users 
 * Settings Screen
    * Lets people change language, and app notification settings.
+* Search Screen 
+   * Lets user search for interests and other users 
 
 ### 3. Navigation
 
