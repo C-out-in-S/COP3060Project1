@@ -41,8 +41,6 @@ Allows users to post gaming related media (pictures, videos, text), learn inform
 * Login 
 * Register - User signs up or logs into their account
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to select their interest areas and view their post feed. 
-* Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * After creating account, user is able to select profiles to communicate with through their feed or search.
 * Profile Screen 
    * Allows user to upload a photo and fill in information that is interesting to them and others.
    * Also shows the users selected interest areas and video games.
@@ -89,15 +87,27 @@ Optional:
    | Property      | Type     | Description |
    | ------------- | -------- | ------------|
    | objectId      | String   | unique id for the user post (default field) |
-   | author        | Pointer to User| image author |
+   | author        | Pointer to User| user that posted |
    | image         | File     | image that user posts |
    | caption       | String   | image caption by author |
    | commentsCount | Number   | number of comments that has been posted to an image |
    | likesCount    | Number   | number of likes for the post |
+   | viewCount     | Number   | number of views for the post |
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
+   | comCreatedAt | DateTime | date when comment is created | 
    
   
 ### Networking
 #### List of network requests by screen
-
+   - Home Feed Screen
+      - (Read/GET) Query all posts where user is author
+      - (Create/POST) Create a new like on a post
+      - (Delete) Delete existing like
+      - (Create/POST) Create a new comment on a post
+      - (Delete) Delete existing comment
+   - Create Post Screen
+      - (Create/POST) Create a new post object
+   - Profile Screen
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile image
