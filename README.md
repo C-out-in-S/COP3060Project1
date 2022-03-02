@@ -90,6 +90,7 @@ Optional:
    | author        | Pointer to User| user that posted |
    | image         | File     | image that user posts |
    | caption       | String   | image caption by author |
+   | commentInfo   | String   | conent contained in comments |
    | commentsCount | Number   | number of comments that has been posted to an image |
    | likesCount    | Number   | number of likes for the post |
    | viewCount     | Number   | number of views for the post |
@@ -111,3 +112,7 @@ Optional:
    - Profile Screen
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile image
+   - Settings Screen 
+      - 
+   - Search Screen 
+   - Register/Login Page 
