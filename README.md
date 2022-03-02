@@ -105,19 +105,32 @@ Optional:
   
 ### Networking
 #### List of network requests by screen
+   - Login 
+      - (Read/GET) Query all accounts to determine if ussername & password match 
+   - Register 
+      - (Read/GET) Query all accounts to determine if username already created previously  
    - Home Feed Screen
       - (Read/GET) Query all posts where user is author
       - (Create/POST) Create a new like on a post
       - (Delete) Delete existing like
       - (Create/POST) Create a new comment on a post
       - (Delete) Delete existing comment
-      - (UPDATE) Refresh home feed 
+      - (UPDATE/PUT) Refresh home feed 
    - Create Post Screen
       - (Create/POST) Create a new post object
       - (Delete) Remove media from post object
    - Profile Screen
       - (Read/GET) Query logged in user object
-      - (Update/put) Update follower count 
-      - (Update/PUT) Update user profile image
-      - (Update/PUT) Update user bio
-    
+      - (UPDATE/PUT) Update follower count 
+      - (UPDATE/PUT) Update user profile image
+      - (UPDATE/PUT) Update user bio
+   - Settings Screen 
+      - (Read/GET) Query user object's application history
+      - (UPDATE/PUT) Update version of application
+      - (UPDATE/PUT) Update login information as necessary
+   - Messaging Screen 
+      - (Create/POST) Create a chat between two users 
+      - (Create/POST) Sending media between users 
+      - (Delete) Delete the chat between user 
+   - Notification Screen
+      - (UPDATE/PUT) Add notifications to page as they come
