@@ -93,6 +93,8 @@ Optional:
    | objectId      | String   | unique id for the user post (default field) |
    | author        | Pointer to User| user that posted |
    | image         | File     | image that user posts |
+   | username | string | username created by user |
+   | password | string | password created by user | 
    | caption       | String   | image caption by author |
    | commentInfo   | String   | conent contained in comments |
    | commentsCount | Number   | number of comments that has been posted to an image |
@@ -101,6 +103,9 @@ Optional:
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
    | comCreatedAt | DateTime | date when comment is created | 
+   | messSentAt | DateTime | date and time when message is sent |
+   | notifCreatedAt | DateTime | date and time when notification is sent to user |
+   | pageRefreshed | Boolean | determines if page is refreshed |
    
   
 ### Networking
@@ -108,7 +113,8 @@ Optional:
    - Login 
       - (Read/GET) Query all accounts to determine if ussername & password match 
    - Register 
-      - (Read/GET) Query all accounts to determine if username already created previously  
+      - (Read/GET) Query all accounts to determine if username already created previously 
+      - (UPDATE/PUT) Create username and password to database  
    - Home Feed Screen
       - (Read/GET) Query all posts where user is author
       - (Create/POST) Create a new like on a post
