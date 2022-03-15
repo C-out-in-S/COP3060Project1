@@ -140,3 +140,14 @@ Optional:
       - (Delete) Delete the chat between user 
    - Notification Screen
       - (UPDATE/PUT) Add notifications to page as they come
+
+
+## Milestone 3 - March 8, 2022
+### <a href="https://imgur.com/a/fNOT7W7">Link to updated wireframes</a>
+
+## Milestone 4 - March 15, 2022
+### <a href="">Link to Firebase Database GIF</a>
+### <a href="">Link to Login Page GIF</a>
+### <a href="">Link to Register Page GIF</a>
+
+
