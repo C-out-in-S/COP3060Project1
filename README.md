@@ -149,5 +149,7 @@ Optional:
 ### <a href="">Link to Firebase Database GIF</a>
 ### <a href="">Link to Login Page GIF</a>
 ### <a href="">Link to Register Page GIF</a>
+### <a href="">Link to Video Game Info Page GIF</a>
+
 
 
