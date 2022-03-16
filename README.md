@@ -146,7 +146,7 @@ Optional:
 ### <a href="https://imgur.com/a/fNOT7W7">Link to updated wireframes</a>
 
 ## Milestone 4 - March 15, 2022
-### <a href="https://github.com/C-out-in-S/COP3060Project1">Link to Firebase Database GIF</a>
+### <a href="https://imgur.com/a/EnEjMKc">Link to Firebase Database GIF</a>
 ### <a href="">Link to Login Page GIF</a>
 ### <a href="">Link to Register Page GIF</a>
 ### <a href="">Link to Video Game Info Page GIF</a>
