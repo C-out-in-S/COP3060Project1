@@ -142,13 +142,13 @@ Optional:
       - (UPDATE/PUT) Add notifications to page as they come
 
 
-## Milestone 2 - March 8, 2022
+## Milestone 3 - March 8, 2022
 ### <a href="https://imgur.com/a/fNOT7W7">Link to updated wireframes</a>
 
-## Milestone 3 - March 15, 2022
+## Milestone 4 - March 15, 2022
 ### <a href="https://imgur.com/a/EnEjMKc">Link to Firebase Database GIF</a>
 
-## Milestone 4 - March 29, 2022
+## Milestone 5 - March 29, 2022
 ### <a href="">Link to Login Page GIF</a>
 ### <a href="">Link to Register Page GIF</a>
 ### <a href="">Link to Video Game Info Page GIF</a>
