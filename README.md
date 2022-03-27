@@ -146,7 +146,7 @@ Optional:
 ### <a href="https://imgur.com/a/fNOT7W7">Link to updated wireframes</a>
 
 ## Milestone 4 - March 15, 2022
-### <a href="https://imgur.com/a/EnEjMKc">Link to Firebase Database GIF</a>
+### <a href="https://imgur.com/a/YDzbmOT">Link to Firebase Database GIF</a>
 
 ## Milestone 5 - March 29, 2022
 ### <a href="">Link to Login Page GIF</a>
