@@ -151,7 +151,7 @@ Optional:
 ## Milestone 5 - March 29, 2022
 ### <a href="https://imgur.com/a/baJ0tVR">Link to Milestone 5 GIF</a>
 
-## Milestone 6 - March 29, 2022
+## Milestone 6 - April 5, 2022
 ### <a href="">Link to Login Page GIF</a>
 ### <a href="">Link to Register Page GIF</a>
 ### <a href="">Link to Video Game Info Page GIF</a>
