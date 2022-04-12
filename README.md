@@ -152,10 +152,10 @@ Optional:
 ### <a href="https://imgur.com/a/baJ0tVR">Link to Milestone 5 GIF</a>
 
 ## Milestone 6 - April 5, 2022
-### <a href="">Link to Login Page GIF</a>
-### <a href="">Link to Register Page GIF</a>
-### <a href="">Link to Video Game Info Page GIF</a>
-### <a href="">Link to Settings Page GIF</a>
-### <a href="">Link to Profile Page GIF</a>
-### <a href="">Link to Notification Page GIF</a>
-### <a href="">Link to Home Page GIF</a>
+### <a href="">Link to Milestone 6 GIF </a>
+
+## Milestone 7 - Arpil 12, 2022
+### <a href="">Link to Milestone 7 GIF </a>
+
+## Milestone 8 - April 19, 2022
+### <a href="">Link to Milestone 8 GIF </a>
