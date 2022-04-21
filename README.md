@@ -155,7 +155,7 @@ Optional:
 ### <a href="https://imgur.com/a/iuW4kZ8">Link to Milestone 6 GIF </a>
 
 ## Milestone 7 - Arpil 12, 2022
-### <a href="">Link to Milestone 7 GIF </a>
+### <a href="https://imgur.com/a/tPduHEB">Link to Milestone 7 GIF </a>
 
 ## Milestone 8 - April 19, 2022
 ### <a href="">Link to Milestone 8 GIF </a>
