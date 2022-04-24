@@ -158,4 +158,4 @@ Optional:
 ### <a href="https://imgur.com/a/tPduHEB">Link to Milestone 7 GIF </a>
 
 ## Milestone 8 - April 19, 2022
-### <a href="">Link to Milestone 8 GIF </a>
+### <a href="https://imgur.com/a/DpNIyVm">Link to Milestone 8 GIF </a>
